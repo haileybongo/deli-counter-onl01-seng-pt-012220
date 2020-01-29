@@ -7,7 +7,7 @@ def line(array)
     puts "The line is currently empty."
   else
     counter = 1 
-    line_array = []
+    line_array
     array.each do |name|
      line_array << "#{counter}. #{name} "
      counter += 1 
