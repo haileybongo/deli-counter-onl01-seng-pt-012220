@@ -8,5 +8,6 @@ def line(array)
   else
     counter = 1 
     array.each do |name|
-      
+     
+     
     
