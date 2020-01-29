@@ -12,7 +12,7 @@ def line(katz_deli)
      line_array << " #{counter}. #{name}"
      counter += 1 
    end
-   puts "The line is currently: #{line_array}"
+   puts "The line is currently:#{line_array}"
  end
 
 def take_a_number(katz_deli,name)
