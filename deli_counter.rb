@@ -24,5 +24,6 @@ def now_serving(katz_deli)
   if array.size == 0 
     puts "There is nobody waiting ot be served!"
   else 
-    puts ""
+    puts "Currently serving #{katz_deli[0]}."
+    katz_deli.
     
