@@ -11,6 +11,7 @@ def line(array)
     array.each do |name|
      line_array << "#{counter}. #{name} "
    end
-   puts "The line is currently: line
+   puts "The line is currently: #{line_array}"
+ end
      
     
