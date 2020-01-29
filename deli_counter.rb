@@ -15,5 +15,6 @@ def line(array)
    puts "The line is currently: #{line_array}"
  end
 
-def take_a_number()
+def take_a_number(katz_deli,name)
+  
     
