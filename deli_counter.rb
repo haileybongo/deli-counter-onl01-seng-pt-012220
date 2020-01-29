@@ -13,7 +13,6 @@ def line(array)
      counter += 1 
    end
    puts "The line is currently: #{line_array}"
-   
  end
 
 def take_a_number()
